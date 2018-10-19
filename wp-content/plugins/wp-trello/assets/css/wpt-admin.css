@@ -1,0 +1,13 @@
+.wpt-section {
+    display: none;
+    padding-top: 10px;
+}
+.wpt-section-active {
+    display: block;
+}
+
+body.settings_page_wp-trello .nav-tab {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	height: 25px;
+}
